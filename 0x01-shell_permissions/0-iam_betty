@@ -1,2 +1,2 @@
-echo cd
+#!/bin/bash
 cd
